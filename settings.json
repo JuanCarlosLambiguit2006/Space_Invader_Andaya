@@ -1,0 +1,11 @@
+{
+    "show_mobile_buttons": true,
+    "fullscreen": false,
+    "volume": 100,
+    "screen_shake": true,
+    "animations": true,
+    "music_enabled": true,
+    "sfx_enabled": true,
+    "music_volume": 0.28,
+    "sfx_volume": 0.65
+}
